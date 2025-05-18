@@ -22,6 +22,15 @@ Before you begin, ensure you have the following:
   - [CoinMarketCap](https://coinmarketcap.com/api/)
   - [CryptoPanic](https://cryptopanic.com/developers/api/)
 
+## Usage
+
+- Enter any text mentioning a cryptocurrency (e.g., "What's the price of Bitcoin?" or "Tell me about Ethereum")
+- The application will:
+- Extract the cryptocurrency symbol
+- Show the current price
+- Display the latest news
+ -Show market information
+ 
 ## Installation
 
 1. Clone the repository:
